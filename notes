@@ -1,0 +1,6 @@
+ls
+git status
+git add file1.py
+git commit -m "Add file1.py"
+git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git push -u origin master
