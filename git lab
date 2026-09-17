@@ -2,6 +2,14 @@ ls
 git status
 git add file1.py
 git commit -m "Add file1.py"
+git config --global user.name " "
+git config --global user.email " "
+
 git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
 git push -u origin master
+
 git commit --amend --reset-author --no-edit
+
+git branch // to view branch
+git branch name //creates branch
+
