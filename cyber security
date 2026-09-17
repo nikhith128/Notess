@@ -1,0 +1,43 @@
+🔐 1. Cybersecurity Basics
+CIA Triad
+Authentication
+Vulnerability & Exploit
+CVE & CVSS
+Types of Hackers
+MFA
+🌐 2. Networking
+IP, MAC Address
+DNS & DHCP
+TCP vs UDP
+Common Ports: 22, 53, 80, 443
+ICMP & Ping
+Router, Switch, Hub
+Firewall
+⚔️ 3. Cyber Attacks
+Phishing & Spear Phishing
+Brute Force & Dictionary Attack
+MITM
+DoS/DDoS
+ARP Spoofing
+Spoofing
+🦠 4. Viruses & Malware
+Worm
+Trojan Horse
+Ransomware
+Spyware
+Keylogger
+Botnet
+🌍 5. Web Security
+HTTP & HTTPS
+TLS
+SQL Injection
+XSS
+URL
+🐧 6. Linux Basics
+pwd
+ls
+cd
+chmod
+🔑 7. Cryptography
+Encryption
+Hashing
